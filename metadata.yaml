@@ -1,0 +1,41 @@
+_repo: Ulrich-SchmidelDer-erste-Geschichtschreiber-der-La-Plata-L-nder--1535-1555-_24887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lehmann-Nitsche, Robert
+    birthdate: 1872
+    deathdate: 1938
+    gutenberg_agent_id: '26794'
+    url: http://www.gutenberg.org/2009/agents/26794
+    wikipedia: http://de.wikipedia.org/wiki/Robert_Lehmann-Nitsche
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Argentina
+- DE Prosa
+gutenberg_issued: '2008-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24887'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcsh 'First contact of aboriginal peoples with Westerners -- Personal narratives'
+- !lcc 'Z'
+- !lcc 'CT'
+- !lcsh 'Mendoza, Pedro de, 1487?-1537'
+- !lcsh 'Schmidel, Ulrich, 1510?-1579?'
+- !lcsh 'Rio de la Plata (Argentina and Uruguay) -- Discovery and exploration'
+- !lcsh 'Argentina -- History -- 1535-1617 -- Sources'
+- !lcsh 'Explorers'
+- !lcc 'F2201'
+title: 'Ulrich Schmidel
+
+  Der erste Geschichtschreiber der La Plata-Länder (1535-1555)'
+url: http://www.gutenberg.org/ebooks/24887
