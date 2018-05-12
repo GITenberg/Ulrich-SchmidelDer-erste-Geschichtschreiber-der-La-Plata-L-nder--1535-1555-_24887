@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26794
     wikipedia: http://de.wikipedia.org/wiki/Robert_Lehmann-Nitsche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24887#Ulrich-SchmidelDer-erste-Geschichtschreiber-der-La-Plata-L-nder--1535-1555-
 gutenberg_bookshelf:
 - DE Sachbuch
 - Argentina
